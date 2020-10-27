@@ -1,0 +1,10 @@
+#+TITLE: ClojureScript Starter Template
+
+* Instructions
+
+Clone this repo and run  
+#+BEGIN_SRC sh
+clj -m figwheel.main -b fig
+#+END_SRC
+this should start the REPL. Enjoy 😉
+
