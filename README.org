@@ -1,5 +1,7 @@
 #+TITLE: ClojureScript Starter Template
 
+A simple ClojureScript starter template using Figwheel.
+
 * Instructions
 
 Clone this repo and run  
